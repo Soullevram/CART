@@ -1,4 +1,4 @@
-# CART (Classificationa and Regression Tree)
+# CART (Classification and Regression Tree)
 Tree-based data mining algorithmic model for body weight prediction in indigenous Nigerian goat breeds
 
 The SAS codes are for the CART analyses of morphological body measurements obtained from Red Sokoto, Sahel, and West African Dwarf goats.
